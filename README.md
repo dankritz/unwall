@@ -173,7 +173,7 @@ Test the extension on various websites with different types of paywalls:
 
 ## 📄 License
 
-This project is provided for educational purposes. Please use responsibly and respect content creators' rights.
+This project is provided for educational purposes and governed by the MIT License. See the LICENSE file for more information. Please use responsibly and respect content creators' rights.
 
 ## 🙏 Acknowledgments
 
