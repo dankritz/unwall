@@ -1,0 +1,13 @@
+{
+  "openRouterApiKey": "your-openrouter-api-key-here",
+  "aiModel": "google/gemini-2.5-flash",
+  "availableModels": [
+    "google/gemini-2.5-flash",
+    "anthropic/claude-sonnet-4"
+  ],
+  "notes": {
+    "apiKey": "Get your API key from https://openrouter.ai/keys",
+    "models": "Choose between Google Gemini 2.5 Flash (fast) or Anthropic Claude Sonnet 4 (advanced) via the extension popup",
+    "setup": "1. Copy this file to config.json, 2. Add your API key, 3. Select your preferred model in the extension settings"
+  }
+} 
